@@ -1,0 +1,23 @@
+{
+  "name": "lucenio",
+  "version": "1.0.0",
+  "description": "activity4",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monnex/sia4.git"
+  },
+  "author": "raymund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monnex/sia4/issues"
+  },
+  "homepage": "https://github.com/monnex/sia4#readme"
+}
